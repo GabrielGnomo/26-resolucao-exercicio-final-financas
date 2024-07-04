@@ -1,0 +1,29 @@
+{
+  "transactions": [
+    {
+      "name": "Salário",
+      "amount": 3200,
+      "id": "3"
+    },
+    {
+      "name": "Conta de água",
+      "amount": -60,
+      "id": "4"
+    },
+    {
+      "id": "78f9",
+      "name": "Conta de Luz",
+      "amount": -150
+    },
+    {
+      "id": "3a2f",
+      "name": "Freela",
+      "amount": 300
+    },
+    {
+      "id": "09f4",
+      "name": "Lanche",
+      "amount": -24
+    }
+  ]
+}
